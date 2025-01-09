@@ -1,6 +1,6 @@
 ﻿body {
   text-align: center;
-  background: #2a2a28 url(img/mrpenisp.gif);
+  background: #2a2a28;
 color: #f9b64c;
 }
 h1,p {
@@ -30,7 +30,7 @@ color: #575753; height:3px" width="75%";
 }
 @font-face {
 font-family: pixel;
-src: url(fonts/vga8.ttf);
+src: url(http://3.ntv.ru/public/files/15363197/vga8.ttf);
 }
 h1,h2,h3,h4,a,p,td,menu,marquee {
 font-family: pixel, 'vga8', cursive;
